@@ -1,0 +1,2 @@
+# TABEL-KODE-ASCII
+A-Z,a-z,0-9
